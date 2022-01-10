@@ -9,13 +9,14 @@
 ### Analysis of Outcomes Based on Launch Date
  ![Theater_Outcomes_vs_Launch](https://raw.githubusercontent.com/chloengdt/Week1_Kickstarters/main/Theater_Outcomes_vs_Launch.png)
 (https://github.com/chloengdt/Week1_Kickstarters/blob/a369466fe44fc1236ac77c4938a243e53a03e161/Kickstarter_Challenge.xlsx)
-
+### Challenges and Difficulties Encountered
+#### There was not any difficulty 
 
 ### Analysis of Outcomes Based on Goals
 ![Outcomes_vs_Goals](https://raw.githubusercontent.com/chloengdt/Week1_Kickstarters/a369466fe44fc1236ac77c4938a243e53a03e161/Outcomes_vs_Goals.png)
 (https://github.com/chloengdt/Week1_Kickstarters/blob/a369466fe44fc1236ac77c4938a243e53a03e161/Kickstarter_Challenge.xlsx)
 ### Challenges and Difficulties Encountered
-### I encountered difficulty when trying to insert the "Outcomes Based on Goal" line graph. The "Percentage failed" line didn't show on my graph and I looked up information online on how to Plot series on the Secondary Axis. 
+#### I encountered difficulty when trying to insert the "Outcomes Based on Goal" line graph. The "Percentage failed" line didn't show on my graph and I looked up information online on how to Plot series on the Secondary Axis. 
 ## Results
 - Outcomes based on Launch Date
 #### This analysis examines the data of theater campaigns, which shows a higher success rate than a failed rate based on the launch date. May and Jun were the months that had the highest launching campaign and had the highest success full rate.
