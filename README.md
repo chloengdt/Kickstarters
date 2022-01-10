@@ -1,11 +1,11 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-### This Analysis is an examination for the campaign of The Theater Performance Outcomes based on Monetary Goals that they need to be successful
+### This Analysis is an examination for the campaign of The Theater Performance Outcomes based on Monetary Goals and Launching date
 ### Purpose
-#### To analyze data points of performances that give better results.
+#### To analyze the results of performances compaigns outcomes vs Launching date and Monetary goal.
 ## Analysis and Challenges
-
+### The data has too many noise and unessesary informations. 
 ### Analysis of Outcomes Based on Launch Date
  ![Theater_Outcomes_vs_Launch](https://raw.githubusercontent.com/chloengdt/Week1_Kickstarters/main/Theater_Outcomes_vs_Launch.png)
 (https://github.com/chloengdt/Week1_Kickstarters/blob/a369466fe44fc1236ac77c4938a243e53a03e161/Kickstarter_Challenge.xlsx)
