@@ -7,12 +7,12 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
- !(https://raw.githubusercontent.com/chloengdt/Week1_Kickstarters/main/Theater_Outcomes_vs_Launch.png)
+ ! (https://raw.githubusercontent.com/chloengdt/Week1_Kickstarters/main/Theater_Outcomes_vs_Launch.png)
 (https://github.com/chloengdt/Week1_Kickstarters/blob/a369466fe44fc1236ac77c4938a243e53a03e161/Kickstarter_Challenge.xlsx)
 
 
 ### Analysis of Outcomes Based on Goals
-!(https://raw.githubusercontent.com/chloengdt/Week1_Kickstarters/a369466fe44fc1236ac77c4938a243e53a03e161/Outcomes_vs_Goals.png)
+! (https://raw.githubusercontent.com/chloengdt/Week1_Kickstarters/a369466fe44fc1236ac77c4938a243e53a03e161/Outcomes_vs_Goals.png)
 (https://github.com/chloengdt/Week1_Kickstarters/blob/a369466fe44fc1236ac77c4938a243e53a03e161/Kickstarter_Challenge.xlsx)
 ### Challenges and Difficulties Encountered
 ### I encountered difficulty when trying to insert the "Outcomes Based on Goal" line graph. The "Percentage fail" line didn't show on my graph and I looked up information online on how to Plot series on the Secondary Axis. 
